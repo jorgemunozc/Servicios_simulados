@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Sistema de almacenamiento de contribuyentes'),
+    'name' => env('APP_NAME', 'Facturacion de Servicios Basicos'),
 
     /*
     |--------------------------------------------------------------------------
